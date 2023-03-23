@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+#lo dejo comentado para poder tenerlo actualizado desde gitpages 
+#/build
 
 # misc
 .DS_Store
